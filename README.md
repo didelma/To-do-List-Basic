@@ -1,2 +1,2 @@
 ## Basic todo List
-File w
+Todo List design was instiped from a Youtube Todo List tutorial.
